@@ -41,7 +41,7 @@ Replace this with a short intro about yourself and your business -->
 ### Week 6
 **What I built:** 
 **What it does:** 
-**Link to workflow:** See `/workflows/week6.json`
+**Link to workflow:** See `/workflows/week7.json`
 
 
 ---
